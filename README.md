@@ -24,3 +24,4 @@ const navigation = useNavigation();
 
 npm install @react-navigation/bottom-tabs
 <!-- for menu below the app -->
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
